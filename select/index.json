@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "アローラ!!",
+  "base_artist": "サトシwithピカチュウ(CV:松本梨香/大谷育江)",
+  "createdAt": "2026-03-26T09:27:47.573171Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アローラ!! -アニメサイズ-",
+      "artist": "サトシ(CV:松本梨香)",
+      "has_synced": false,
+      "path": "select/01_アローラ!!_-アニメサイズ-_サトシ(CV_松本梨香).txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アローラ!!",
+      "artist": "サトシwithピカチュウ（CV:松本梨香／大谷育江）",
+      "has_synced": false,
+      "path": "select/02_アローラ!!_サトシwithピカチュウ(CV_松本梨香_大谷育江).txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アローラ!! -アニメサイズ-",
+      "artist": "サトシ (松本梨香) with ピカチュウ (大谷育江)",
+      "has_synced": false,
+      "path": "select/03_アローラ!!_-アニメサイズ-_サトシ_(松本梨香)_with_ピカチュウ_(大谷育江).txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アローラ!!",
+      "artist": "サトシwithピカチュウ(CV:松本梨香/大谷育江)",
+      "has_synced": false,
+      "path": "select/pl_01_アローラ!!_サトシwithピカチュウ(CV_松本梨香_大谷育江).txt"
+    }
+  ]
+}
